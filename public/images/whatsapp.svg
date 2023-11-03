@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="whatsapp" transform="translate(-711 -1866)">
+    <rect id="Rectangle_17970" data-name="Rectangle 17970" width="40" height="40" rx="4" transform="translate(711 1866)" fill="#1ad03f"/>
+    <g id="Group_32052" data-name="Group 32052" transform="translate(126 3)">
+      <g id="Group_32055" data-name="Group 32055" transform="translate(593 1870.983)">
+        <path id="Path_32782" data-name="Path 32782" d="M3,21l1.65-3.8a9,9,0,1,1,3.4,2.9L3,21" fill="rgba(0,0,0,0)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Path_32783" data-name="Path 32783" d="M9,10a.5.5,0,0,0,1,0V9A.5.5,0,0,0,9,9v1a5,5,0,0,0,5,5h1a.5.5,0,0,0,0-1H14a.5.5,0,0,0,0,1" fill="rgba(0,0,0,0)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

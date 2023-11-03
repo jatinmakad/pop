@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="223" height="52" viewBox="0 0 223 52">
+  <g id="Group_31254" data-name="Group 31254" transform="translate(-997 -897)">
+    <g id="Group_31288" data-name="Group 31288">
+      <g id="Rectangle_17650" data-name="Rectangle 17650" transform="translate(997 897)" fill="#fff" stroke="#e5e3e3" stroke-width="1">
+        <rect width="223" height="52" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="222" height="51" rx="7.5" fill="none"/>
+      </g>
+      <g id="Group_31259" data-name="Group 31259" transform="translate(40.888)">
+        <g id="ICON" transform="translate(705.872 608.67)">
+          <g id="Group_31255" data-name="Group 31255" transform="translate(321.359 315.962)">
+            <path id="Path_32169" data-name="Path 32169" d="M419.731,1233.219a9.2,9.2,0,0,1-6.7,2.469A9.913,9.913,0,0,1,404.28,1230l3.281-2.682a5.87,5.87,0,0,0,8.943,3.261Z" transform="translate(-404.28 -1227.32)" fill="#34a853"/>
+          </g>
+          <g id="Group_31256" data-name="Group 31256" transform="translate(320.24 309.686)">
+            <path id="Path_32170" data-name="Path 32170" d="M324.474,735.914a6.438,6.438,0,0,0,.3,1.962l-3.418,2.682a10.195,10.195,0,0,1,0-9.288l3.418,2.682A6.437,6.437,0,0,0,324.474,735.914Z" transform="translate(-320.24 -731.27)" fill="#fbbc05"/>
+          </g>
+          <g id="Group_31257" data-name="Group 31257" transform="translate(321.359 304.33)">
+            <path id="Path_32171" data-name="Path 32171" d="M419.718,307.1l-2.786,2.861a5.5,5.5,0,0,0-3.888-1.533,5.828,5.828,0,0,0-5.473,4.27l-3.281-2.682a9.912,9.912,0,0,1,8.754-5.686A9.109,9.109,0,0,1,419.718,307.1Z" transform="translate(-404.29 -304.33)" fill="#ea4335"/>
+          </g>
+          <g id="Group_31258" data-name="Group 31258" transform="translate(329.972 312.299)">
+            <path id="Path_32172" data-name="Path 32172" d="M1109.228,954a14.056,14.056,0,0,1-.157,2.126,9.762,9.762,0,0,1-2.823,5.734l-3.361-2.638a5.417,5.417,0,0,0,2.118-3.1h-5.595V952.3h9.7A11.783,11.783,0,0,1,1109.228,954Z" transform="translate(-1099.41 -952.3)" fill="#4285f4"/>
+          </g>
+        </g>
+        <text id="Google" transform="translate(1056.477 929)" font-size="16" font-family="NetflixSans-Regular, Netflix Sans"><tspan x="0" y="0">Google</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

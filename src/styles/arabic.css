@@ -1,0 +1,365 @@
+/* for-arabic */
+
+html[dir="rtl"] .slick-slider .propertie_card:not(html[dir="rtl"] .banner-slider-sec .slick-slider) {
+  direction: rtl;
+}
+
+/* html[dir="rtl"] .copyright ul li {
+  margin-right: 50px;
+  margin-left: 0;
+} */
+html[dir="rtl"] .searched_filter_info small {
+  right: auto;
+  left: 0;
+}
+
+html[dir="rtl"]  .searched_filter_info {
+  padding-left: 0;
+  padding-right: 10px;
+}
+
+html[dir="rtl"] .searched_filter_info .pro_feature li img {
+  margin-right: 0;
+  margin-left: 8px;
+}
+
+html[dir="rtl"] .map_sidebar{left:0; right:auto;}
+
+html[dir="rtl"] .map_sidebar .map_sidebar_close {
+  left: auto;
+  right: -16px;
+}
+
+html[dir="rtl"] .map_sidebar {
+  left: 0;
+  right: auto;
+  transform: translate(-120%);
+}
+html[dir="rtl"] .exit_map {
+  left: auto;
+  right: 20px;
+}
+
+html[dir="rtl"] .map_sidebar.map_open_sidebar{transform:translate(0);}
+
+
+[dir='rtl'] .slick-prev {
+  right: auto !important;
+  left: 0 !important;
+}
+
+[dir='rtl'] .slick-next {
+  right: auto !important;
+  left: 45px !important;
+}
+
+[dir='rtl'] .slick-track {
+  margin-left: auto !important;
+  margin-right: 0 !important;
+}
+
+html[dir="rtl"] {
+  direction: rtl;
+}
+
+
+html[dir="rtl"] .filter_form_wrap .btn.theme_btn {
+  right: auto;
+  left: 0;
+}
+
+html[dir="rtl"] .search_outer {
+  margin-right: 0;
+}
+
+html[dir="rtl"] .price_select.form-select {
+  margin-left: 10px;
+}
+
+html[dir="rtl"] .filter_bottom .form-check-input {
+  margin-left: 6px;
+}
+
+html[dir="rtl"] .filter_form_wrap .nav-tabs .nav-item:first-child .nav-link {
+  margin-right: 0;
+}
+
+html[dir="rtl"] .home_search_card:after {
+  right: auto;
+  left: 20px;
+}
+
+html[dir="rtl"] .selling_point li span {
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+html[dir="rtl"] .downloadBG li {
+  background-position: right top 7px;
+  padding: 0 25px 10px 0;
+}
+
+html[dir="rtl"] .downloadBG a.me-2 {
+  margin-left: 10px !important;
+}
+
+html[dir="rtl"] .react-tel-input .selected-flag {
+  padding: 0 11px 0 0;
+}
+
+html[dir="rtl"] .react-tel-input .form-control {
+  padding-left: .75rem;
+  padding-right: 50px;
+  text-align: right;
+}
+
+html[dir="rtl"] .form-control,
+html[dir="rtl"] .form-select {
+  text-align: right;
+}
+
+html[dir="rtl"] .pwd .form-control {
+  border-right: 1px solid #d2d5da;
+}
+
+html[dir="rtl"] .search_outer {
+  margin: 0 0 0 10px;
+}
+
+html[dir="rtl"] .img_count img {
+  margin-right: 0px;
+  margin-left: 6px;
+}
+
+
+html[dir="rtl"] .login_outer .leftSec:after {
+  right: 100%;
+}
+
+html[dir="rtl"] .login_outer .tab_radio .form-check label {
+  padding-left: 0;
+  padding-right: 10px;
+}
+
+html[dir="rtl"] .login_outer .form-check .form-check-label {
+  padding-left: 0;
+  padding-right: 8px;
+}
+html[dir="rtl"] .search_outer{padding:0px 28px 0px 0;}
+
+  
+
+html[dir="rtl"] .react-tel-input .selected-flag .arrow {
+  left: 0;
+  right: 20px;
+}
+
+html[dir="rtl"] .copyright ul li {
+  margin-left: 50px;
+}
+
+html[dir="rtl"] .search_outer_secondary .form-control {
+  padding: 0px 40px 0px 15px;
+}
+
+html[dir="rtl"] .search_outer button:not(.search_suggestion_list button, .selected_address button) {
+  left: auto;
+  right:0;
+}
+html[dir="rtl"] .search_outer  .close {
+  left: 5px!important;
+  right: auto!important;
+}
+
+html[dir="rtl"] .propertie_card_listView .price_tag  .fs-5.fw-medium {
+  padding-left: 15px;
+}
+
+
+html[dir="rtl"] .price_tag .apartment {
+  margin-left: 10px;
+  position: relative;
+  top:-10px;
+}
+html[dir="rtl"] .price_tag  .apartment {margin-left:10px;}
+html[dir="rtl"] .country_tag {margin-right:0; margin-left:6px;}
+html[dir="rtl"] .showmore-option-btn span{margin-left:0; margin-right:8px; top:-3px; position: relative;}
+html[dir="rtl"] .form-check-label  {margin-right:6px;}
+html[dir="rtl"] .company-list-card figcaption  {padding-right:20px;}
+html[dir="rtl"] .notification_list figcaption {padding-right: 20px;} 
+html[dir="rtl"] .customer-detail .detail-inner h6 img {margin-left: 5px;} 
+html[dir="rtl"] .total_property {text-align: left;} 
+html[dir="rtl"] .company-list-card li span {padding-right: 12px;} 
+html[dir="rtl"] .pro_info_li li:last-child {text-align: left;} 
+html[dir="rtl"] .compny_profile h3 {text-align: right;} 
+html[dir="rtl"] .react-tel-input .country-list .flag {margin-left: 7px;} 
+html[dir="rtl"] .view-padding {padding-right: 7px;} 
+html[dir="rtl"] .margin-bid {margin-left: 10px;} 
+html[dir="rtl"] .place-bid-modal .price~span {padding-right: 10px;} 
+html[dir="rtl"] .bid-price-text {padding-right: 74px;} 
+html[dir="rtl"] .right_addon_bxs:after{left:0; right:auto;}
+html[dir="rtl"] .social_achiv .price span{margin-left: 10px;}
+html[dir="rtl"] .social_achiv .mb-0.fs-7 span{margin-right: 5px;}
+html[dir="rtl"] .modal .btn-close {
+  right: auto;
+}
+html[dir="rtl"] .fw-medium {font-weight: 600;}
+
+html[dir="rtl"] .country_tag {
+  margin-right: 0;
+  margin-left: 6px;
+}
+
+html[dir="rtl"] .showmore-option-btn span {
+  margin-left: 0;
+  margin-right: 8px;
+  top: -3px;
+  position: relative;
+}
+
+html[dir="rtl"] .form-check-label {
+  margin-right: 6px;
+}
+
+html[dir="rtl"] .company-list-card figcaption {
+  padding-right: 20px;
+}
+
+html[dir="rtl"] .notification_list figcaption {
+  padding-right: 20px;
+}
+
+html[dir="rtl"] .customer-detail .detail-inner h6 img {
+  margin-left: 5px;
+}
+
+html[dir="rtl"] .total_property {
+  text-align: left;
+}
+
+html[dir="rtl"] .company-list-card li span {
+  padding-right: 12px;
+}
+
+html[dir="rtl"] .pro_info_li li:last-child {
+  text-align: left;
+}
+
+html[dir="rtl"] .compny_profile h3 {
+  text-align: right;
+}
+
+html[dir="rtl"] .facility ul li {
+  padding-right: 25px;
+  background-position: right;
+}
+
+html[dir="rtl"] .heading_line h3:after {
+  left: auto;
+  right: 0;
+}
+
+html[dir="rtl"] .breadcrumb-item+.breadcrumb-item::before {
+  left: 5px;
+  top: 0;
+}
+
+html[dir="rtl"] .downloadBG {
+  position: relative;
+  background-image: none;
+}
+
+html[dir="rtl"] .downloadBG:after {
+  content: "";
+  background: url(../images/downloadBG.png) no-repeat right bottom;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  transform: scaleX(-1);
+  z-index: 1;
+}
+
+html[dir="rtl"] .company-card-list .price_tag {
+  right: auto;
+  left: 0;
+}
+
+html[dir="rtl"] .selling_option:before {
+  transform: scaleX(-1);
+}
+
+html[dir="rtl"] .selling_option:after {
+  background: linear-gradient(268deg, black, #ffffff00);
+}
+
+.top_footer .social p {
+  margin-left: 10px !important;
+}
+
+
+html[dir="rtl"] .FloorPlanSlider .slick-next {
+  left: auto!important;
+  right: -13px!important;
+}
+
+html[dir="rtl"] .FloorPlanSlider .slick-prev {
+  left: -10px!important;
+}
+
+@media screen and (max-width:767px) {
+
+  html[dir="rtl"] .copyright_wrap ul li {
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin: 0!important;
+    text-align: right;
+    padding-left: 10px;
+  }
+
+  html[dir="rtl"] .downloadBG:after {
+    background-size: 100%;
+  }
+
+  html[dir="rtl"] .filter_cols {
+    margin-bottom: 0;
+    margin-top: 5px;
+  }
+
+  html[dir="rtl"] .form-select {
+    padding: 10px 10px 10px 28px !important;
+  }
+
+  html[dir="rtl"] .filter_form_wrap .btn.theme_btn.small_btn {
+    margin-left: auto;
+    margin-right: 0;
+  }
+
+}
+
+
+
+@media screen and (max-width: 575px) {
+
+  .top_footer p.d-flex.company_location_fix {
+    margin-right: 0!important;
+}
+
+  html[dir="rtl"] .properties_for_rent .inner_heading,
+  html[dir="rtl"] .section_title {
+    padding-right: 0px;
+    padding-left: 80px;
+  }
+
+  .top_footer p.d-flex.company_location_fix {
+    margin-left: 0 0px 10px !important;
+  }
+
+  .copyright_wrap ul li {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+
+}
+

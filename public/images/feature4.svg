@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <g id="feature4" transform="translate(-345 -1711)">
+    <circle id="Ellipse_1141" data-name="Ellipse 1141" cx="15.5" cy="15.5" r="15.5" transform="translate(345 1711)" fill="#f2f6ed"/>
+    <g id="Group_32078" data-name="Group 32078" transform="translate(351 1717)">
+      <path id="Path_32634" data-name="Path 32634" d="M4.556,4.556,3,4.556A1.556,1.556,0,1,0,4.556,3,1.556,1.556,0,0,0,3,4.556" fill="none" stroke="#999b96" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_32635" data-name="Path 32635" d="M18.556,4.556,17,4.556A1.556,1.556,0,1,0,18.556,3,1.556,1.556,0,0,0,17,4.556" transform="translate(-3.111)" fill="none" stroke="#999b96" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_32636" data-name="Path 32636" d="M4.556,18.556,3,18.556A1.556,1.556,0,1,0,4.556,17,1.556,1.556,0,0,0,3,18.556" transform="translate(0 -3.111)" fill="none" stroke="#999b96" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_32637" data-name="Path 32637" d="M18.556,18.556m-1.556,0A1.556,1.556,0,1,0,18.556,17,1.556,1.556,0,0,0,17,18.556" transform="translate(-3.111 -3.111)" fill="none" stroke="#999b96" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_32638" data-name="Path 32638" d="M5,7v7.778" transform="translate(-0.444 -0.889)" fill="none" stroke="#999b96" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_32639" data-name="Path 32639" d="M7,5h7.778" transform="translate(-0.889 -0.444)" fill="none" stroke="#999b96" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_32640" data-name="Path 32640" d="M7,19h7.778" transform="translate(-0.889 -3.556)" fill="none" stroke="#999b96" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_32641" data-name="Path 32641" d="M19,7v7.778" transform="translate(-3.556 -0.889)" fill="none" stroke="#999b96" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

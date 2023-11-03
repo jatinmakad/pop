@@ -1,0 +1,586 @@
+@media screen and (max-width: 1400px) {
+  .header_nav .nav-link {
+    font-size: 14px;
+    padding: 10px 10px !important;
+  }
+
+  .navbar-brand img {
+    max-width: 154px;
+  }
+
+
+
+/* ms */
+.customer-date-sec {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+
+.customer-detail .detail-inner h6 {
+  font-size: 14px;
+}
+/* ms */
+
+}
+
+@media screen and (max-width: 1366px) {
+  .header_nav .nav-link {
+    padding: 10px 6px !important;
+  }
+  .outline-green-btn {
+    padding: 8px 12px;
+    font-size: 14px;
+    border-radius: 6px;
+  }
+  .agentWrap {
+    padding: 60px 50px;
+  }
+}
+@media screen and (max-width: 1199px) {
+
+  /* ms */
+
+  .subscription-sec {
+    padding: 40px 0 40px;
+}
+
+  .company-card-list .propertie_card_listView figure {
+    width: 250px;
+}
+.company-card-list .propertie_card_listView figcaption {
+  width: calc(100% - 250px);
+}
+.customer-detail .detail-inner figcaption {
+  padding-left: 8px;
+}
+.customer-detail .detail-inner span {
+  font-size: 13px;
+}
+.customer-detail {
+  padding: 23px 15px;
+}
+.customer-detail .detail-inner h6 {
+  font-size: 13px;
+}
+.properties_location span{
+  font-size: 14px;
+}
+.company-card-list .propertie_detail_first {
+  padding: 12px;
+}
+
+/* ms */
+
+  .property_desc {
+    flex-wrap: wrap;
+  }
+  .property_desc li {
+    width: 50%;
+    border: 0;
+    margin-bottom: 15px;
+  }
+  .property_desc li + li {
+    border-left: 0;
+  }
+  .agentWrap .box .bg-green p {
+    font-size: 14px;
+  }
+  .property_feature li {
+    width: 50%;
+    margin-bottom: 15px;
+  }
+  .facility ul li {
+    padding-right: 12px;
+  }
+  .payment_plan span {
+    display: block;
+  }
+  .agentWrap {
+    padding: 30px 20px;
+  }
+  .top_footer p,
+  .footer_logo {
+    margin: 0 22px;
+  }
+  .fs-7 {
+    font-size: 13px;
+  }
+  header .navbar {
+    height: auto;
+  }
+
+  .header_nav {
+    margin: 0 -12px;
+    background: #f7f7f7;
+    padding: 0 15px;
+    z-index: 9;
+  }
+  .nav-right {
+    padding: 10px 0;
+  }
+  .nav-right li {
+    padding: 0 5px;
+  }
+  .header_nav .nav-link {
+    font-size: 13px;
+    padding: 10px 6px !important;
+  }
+  .navbar-brand {
+    padding: 0;
+  }
+  .outline-green-btn {
+    font-size: 16px;
+    padding: 10px 15px;
+    line-height: 1.2;
+  }
+  .nav-right li button {
+    font-size: 14px;
+  }
+  header .navbar {
+    height: 70px;
+  }
+  .copyright_wrap {
+    flex-direction: column-reverse;
+  }
+}
+
+@media screen and (max-width: 991px) {
+
+/* ms */
+
+.sidebar_main {
+  position: fixed;
+  left: -100%;
+  top: 0;
+  bottom: 0;
+}
+
+.sub-card li {
+  margin-bottom: 17px;
+}
+
+.subscription-list {
+  padding: 20px 0px;
+  min-height: 278px;
+}
+
+.purchase-btn {
+  padding: 20px 0px;
+}
+.sub-card .basic-sec {
+  padding: 30px 0px 30px;
+}
+.sub-card h4 {
+  font-size: 30px;
+  padding: 9px 0px;
+}
+.propertie_card_listView .property-img {
+  height: 215px;
+}
+
+/* ms */
+
+  .breadcrumb_btn a {
+    font-size: 14px;
+  }
+
+  .add_property_tabs .select_tab {
+    font-size: 14px;
+    min-width: 90px;
+    padding: 10px 16px;
+  }
+
+  .number_select_tab {
+    width: 38px;
+    height: 38px;
+  }
+
+  .find_agent {
+    padding: 40px 0 80px;
+  }
+  .agentWrap {
+    margin-top: -50px;
+  }
+  html {
+    font-size: 14px;
+  }
+  .navbar-brand img {
+    max-width: 146px;
+  }
+  .home_search_easy:after {
+    display: none;
+  }
+  .properties_for_rent,
+  .home_search_easy {
+    padding: 40px 0;
+  }
+  .newProperty {
+    padding: 40px 0 90px;
+  }
+  .ad {
+    margin-top: -60px;
+  }
+
+  .selling_option {
+    padding: 50px 0;
+  }
+  .selling_content_wrap {
+    max-width: 100%;
+  }
+  .section_title h2 {
+    font-size: 2.2em;
+  }
+  .downloadBG {
+    padding: 15px 25px;
+  }
+  h1 {
+    font-size: 40px;
+  }
+  .banner {
+    padding: 70px 0;
+  }
+  .fs-7 {
+    font-size: 12px;
+  }
+  .section_title {
+    margin-bottom: 18px;
+  }
+  .SliderNav .slick-next,
+  .SliderNav .slick-prev {
+    top: -43px;
+  }
+  .price {
+    font-size: 22px;
+  }
+  .copyright ul li a {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+
+  /* ms */
+  .banner-slider-sec h1 {
+    font-size: 20px;
+}
+  .company-card-list .propertie_card_listView figure ,.company-card-list .propertie_card_listView figcaption {
+    width: 100%;
+}
+
+
+  /* ms */
+
+  .detail_caption h2 {
+    font-size: 22px;
+  }
+
+  .breadcrum_Main {
+    padding: 20px 0;
+  }
+  .property_feature .facility li,
+  .property_feature li {
+    width: 100%;
+  }
+  .property_amenities li {
+    width: 33.33%;
+  }
+
+  .theme_lg_tabs.filter_form_wrap .nav-tabs .nav-item {
+    flex: 0;
+    font-size: 15px;
+  }
+
+  .theme_lg_tabs .nav.nav-tabs {
+    justify-content: flex-start;
+  }
+
+  .theme_lg_tabs .nav-tabs .nav-link {
+    width: auto;
+    white-space: nowrap;
+  }
+  .main_wrap {
+    padding: 30px 0 40px;
+  }
+
+  .filter_form_wrap .btn.theme_btn {
+    position: static;
+    top: 0;
+    right: 0;
+    width: 140px;
+    margin: 20px auto 0;
+    display: block;
+  }
+
+  .navbar-brand {
+    padding: 0;
+  }
+  .filter_main {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .search_outer,
+  .property_filter,
+  .property_filter.price_select {
+    flex: auto;
+    max-width: calc(50% - 10px);
+    margin: 0 5px 12px;
+  }
+  .selling_point li {
+    padding: 5px 0;
+  }
+  .section_title h2 {
+    font-size: 1.9em;
+  }
+  .blog,
+  .selling_option {
+    padding: 30px 0;
+  }
+  .SliderNav .slick-prev,
+  .SliderNav .slick-next,
+  .properties_for_rent .slick-next,
+  .properties_for_rent .slick-prev {
+    background-size: cover !important;
+    width: 30px !important;
+    height: 30px !important;
+  }
+  .top_footer p,
+  .footer_logo {
+    margin: 0 22px 10px !important;
+  }
+  .copyright ul li + li {
+    margin-left: 10px;
+    text-align: center;
+  }
+  .propertie_card_listView figure img,
+  .propertie_card_listView figure {
+    width: 100%;
+  }
+  .propertie_card_listView figcaption {
+    width: 100%;
+  }
+  .SliderNav .slick-next {
+    right: 15px;
+  }
+  .inner_heading h2 {
+    font-size: 24px;
+  }
+  .copyright_wrap ul {
+    flex-wrap: wrap;
+    width: 100%;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #2e2e2e;
+    margin-bottom: 15px;
+  }
+  .copyright_wrap ul li {
+    width: 50%;
+  }
+  .copyright ul li + li {
+    margin-left: 0;
+    text-align: left;
+  }
+}
+
+@media screen and (max-width: 575px) {
+
+
+  /* ms */
+
+  .sub-card .basic-sec {
+    padding: 20px 0px 20px;
+}
+
+.subscription-list {
+  min-height: 231px;
+}
+
+  .sub-card li {
+    font-size: 19px;
+    line-height: 23px;
+}
+
+  .common-profile {
+    width: 34px;
+    height: 34px;
+}
+
+.customer-date-sec {
+  flex: 0 0 38%;
+  max-width: 38%;
+}
+
+.customer-detail .detail-inner .figcaption {
+  width: calc(100% - 34px);
+}
+
+  .customer-detail {
+    padding: 15px 15px;
+}
+  .company-card-list .price_tag {
+    position: absolute;
+    right: 0;
+    top: 11px;
+    left: 9px;
+}
+
+  .company-card-list .social_achiv_left .btn_link {
+    font-size: 14px;
+    padding: 6px 11px;
+}
+
+  /* ms */
+
+  .property_amenities li,
+  .property_feature .facility li,
+  .property_feature li {
+    font-size: 15px;
+  }
+  p {
+    margin-bottom: 15px;
+    line-height: 24px;
+    font-size: 15px;
+  }
+
+  .heading_line h3 {
+    font-size: 20px;
+  }
+  .detailBanner img {
+    min-height: 90px;
+    vertical-align: top;
+  }
+  .detail_caption {
+    bottom: 10px;
+  }
+  .detailBanner:after {
+    opacity: 0.6;
+  }
+
+  .theme_lg_tabs .nav.nav-tabs {
+    flex-wrap: nowrap;
+    overflow: auto;
+  }
+  .facility h3,
+  .price,
+  .detail_caption h2 {
+    font-size: 18px;
+  }
+  .theme_lg_tabs .nav-tabs .nav-link {
+    padding: 10px 15px;
+    margin: 0;
+  }
+
+  .theme_lg_tabs.filter_form_wrap .nav-tabs .nav-item {
+    flex: 0 0;
+  }
+
+  .btn-primary,
+  .outline-green-btn {
+    font-size: 16px;
+  }
+
+  .banner {
+    padding: 20px 0;
+  }
+  .SliderNav .slick-next,
+  .SliderNav .slick-prev {
+    top: -33px;
+  }
+  .properties_for_rent,
+  .home_search_easy {
+    padding: 30px 0;
+  }
+  .selling_point li {
+    font-size: 14px;
+  }
+  .filter_form_wrap .btn.theme_btn {
+    width: 100%;
+  }
+  .section_title {
+    padding-right: 90px;
+  }
+  .btn.theme_btn {
+    font-size: 15px;
+    padding: 10px 12px;
+    height: auto;
+  }
+  .section_title h2 {
+    font-size: 24px;
+  }
+  .section_title p {
+    font-size: 16px;
+  }
+  .agentWrap .box figure {
+    text-align: center;
+  }
+  .top_footer > p,
+  .footer_logo {
+    margin: 0 0px 13px !important;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  .social_achiv_left .btn_link {
+    font-size: 0;
+    padding: 10px 8px;
+  }
+  .inner_heading h2 {
+    font-size: 22px;
+  }
+  h1 {
+    font-size: 30px;
+  }
+  .search_outer,
+  .property_filter,
+  .property_filter.price_select {
+    max-width: 100%;
+    margin: 0 0px 12px;
+  }
+  .home_search_card:after {
+    display: none;
+  }
+  .properties_for_rent .slick-slider,
+  .home_search_easy .slick-slider {
+    margin: 0;
+  }
+  .home_search_card p {
+    font-size: 15px;
+  }
+  .home_search_card {
+    padding: 16px 20px;
+  }
+  .apartment {
+    font-size: 14px;
+  }
+  .home_search_section .slick-prev,
+  .home_search_section .slick-next {
+    display: none !important;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .property_amenities li {
+    width: 50%;
+  }
+  .navbar-brand img {
+    max-width: 124px;
+  }
+  .view_btn a {
+    padding: 8px 10px;
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 374px) {
+  .number_select_tab {
+    width: 31px;
+    height: 31px;
+    font-size: 14px;
+  }
+
+/* ms */
+
+.propertie_card_listView .property-img {
+  height: 183px;
+}
+
+/* ms */
+
+}
